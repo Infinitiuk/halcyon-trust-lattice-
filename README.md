@@ -56,9 +56,7 @@ You may not sell this. You may not claim ownership.
 If you modify it, share it forward. Clean.
 Inside README.md or a file like agent_impl.md:
 
-markdown
-Copy
-Edit
+
 # HALCYON Agent Implementation (Live Node)
 
 This repo is theory, structure, and reflection.
